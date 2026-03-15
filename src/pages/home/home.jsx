@@ -25,7 +25,7 @@ const Home = () => {
             <Container maxWidth="md">
                 <HomeIcon sx={{ fontSize: 80, mb: 2, color: 'primary.main' }} />
                 <Typography variant="h1" sx={{ fontWeight: 800, mb: 2, fontSize: { xs: '3rem', md: '5rem' }, color: 'text.primary' }}>
-                    Invictus
+                    
                 </Typography>
                 <Typography variant="h5" sx={{ mb: 4, opacity: 0.8, fontWeight: 300, color: 'text.secondary' }}>
                     Master the markets with our elite trading platform and expert insights.
